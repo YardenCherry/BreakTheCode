@@ -29,3 +29,9 @@ git clone [https://github.com/<your_github_username>/dynamic-login-app.git](http
 - Ensure a device or emulator is connected.
 - Click on the "Run" button in the toolbar.
 - Try to break the code!
+
+
+
+https://github.com/YardenCherry/BreakTheCode/assets/155112044/91d711ac-0b40-4f52-a46b-e0f49de4695d
+
+
